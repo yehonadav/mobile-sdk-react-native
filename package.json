@@ -22,7 +22,7 @@
   "license": "MIT",
   "private": false,
   "peerDependencies": {
-    "react-native": "^0.73.2"
+    "react-native": ">=0.73.2"
   },
   "types": "index.d.ts"
 }
